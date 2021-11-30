@@ -1,0 +1,35 @@
+
+DISNEY+ Accounts
+
+    Quote
+
+PostSun Nov 21, 2021 5:25 am
+debraannchase@hotmail.com:IlOvedH1m | Plan = [Disney Plus Yearly with 7 day Free Trial, DISNEY_PLUS] | Renewal Date = 1/5/2022 4:40:14 PM | isActive = True
+erika-delagarza@hotmail.com:andre2011 | Plan = [Disney Plus Yearly - MX - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 7/29/2022 1:10:56 AM | isActive = True
+famousamos117@hotmail.com:momof5kids | Plan = [Disney Plus Monthly - US - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 12/2/2021 1:17:38 AM | isActive = True
+daisypersson@hotmail.com:75hitme81 | Plan = [Disney Plus Yearly with 7 day Free Trial, DISNEY_PLUS] | Renewal Date = 3/22/2022 12:31:33 AM | isActive = True
+taymisschelle@gmail.com:1234Cali | Plan = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly, DISNEY_PLUS] | subType = LAPSED | Renewal Date = 12/15/2021 1:02:38 AM | isActive = True
+taylorcolston1996@gmail.com:camaro123 | Plan = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS] | subType = INVOLUNTARY_CANCEL | Renewal Date = 12/6/2021 4:09:03 AM | isActive = True
+george12111@hotmail.com:Guitar123 | Plan = [Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS] | subType = PROMO_REDEMPTION | isActive = True
+enortey@essexstreetacademy.org:Ghana123 | Plan = [Disney+, Hulu, and ESPN+ - Hulu Sold w/ Ads, DISNEY_PLUS, DISNEY_HULU_ADS] | isActive = True
+ginaweir35@yahoo.com:sara200882 | Plan = [Disney Plus Monthly - US - XBox, DISNEY_PLUS] | subType = RECURRING | Renewal Date = 12/14/2021 7:36:54 PM | isActive = True
+davethorpedo@hotmail.com:spursno1 | Plan = [Disney Plus Yearly - UK - Web, DISNEY_PLUS] | subType = RECURRING | Renewal Date = 4/2/2022 5:29:33 PM | isActive = True
+clarenewbury@hotmail.com:joseph1967 | Plan = [Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS] | isActive = True
+f_renette@hotmail.com:Arianna16 | Plan = [Disney Plus Monthly - US - Web, DISNEY_PLUS] | subType = RECURRING | Renewal Date = 11/28/2021 7:45:31 AM | isActive = True
+taylerdianewinn@gmail.com:TDW61398 | Plan = [Disney Plus Monthly - US - Vizio, DISNEY_PLUS] | subType = PAID | Renewal Date = 11/25/2021 5:36:20 PM | isActive = True
+erin_7fairbairn@hotmail.com:Bella7 | Plan = [Disney Plus Yearly, DISNEY_PLUS] | Renewal Date = 12/20/2021 9:03:10 PM | isActive = True
+chrissyfox2010@hotmail.com:kolton01 | Plan = [Disney Plus Monthly with 7 day Free Trial, DISNEY_PLUS] | Renewal Date = 12/7/2021 12:18:16 AM | isActive = True
+eri_ba@hotmail.com:bacelis988 | Plan = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Yearly - MX - Web, DISNEY_PLUS] | subType = PAID | Renewal Date = 12/11/2021 1:34:00 AM | isActive = True
+taylor.dimsdale01@gmail.com:taylor9851 | Plan = [Disney Plus - US - Verizon - Bundle Promo, DISNEY_PLUS, DISNEY_HULU_ADS] | isActive = True
+emmamorrison156@gmail.com:Lisbon1967 | Plan = [Disney Plus Monthly With 7 Day FT, DISNEY_PLUS] | Renewal Date = 12/1/2021 11:57:13 PM | isActive = True
+dogbog91@hotmail.com:zack1234 | Plan = [Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS] | subType = PROMO_REDEMPTION | isActive = True
+colleenhubley@hotmail.com:hubley51 | Plan = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS, Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly - CAN - Web, DISNEY_PLUS] | subType = VOLUNTARY_CANCEL | Renewal Date = 12/6/2021 9:35:01 AM | isActive = True
+deanmontague@hotmail.com:Hammers1 | Plan = [Disney Plus Monthly - UK - Web - 2021, DISNEY_PLUS, Disney Plus Premier Access - Jungle Cruise - GB - Web, DISNEY_73QMETY6DRAY] | subType = INITIAL | Renewal Date = 12/10/2021 2:04:14 PM | isActive = True
+b_clendinning@hotmail.com:tamu1996 | Plan = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS] | subType = PAID | Renewal Date = 12/16/2021 4:05:24 AM | isActive = True
+daniellegoodall@hotmail.com:carrot88 | Plan = [Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 12/6/2021 5:59:16 AM | isActive = True
+esut1@hotmail.com:paradise1 | Plan = [Disney Plus Yearly, DISNEY_PLUS] | Renewal Date = 3/9/2022 10:15:43 PM | isActive = True
+chris_dominix@hotmail.com:christine46 | Plan = [Disney Plus Monthly - CA - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - CAN - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 1/3/2022 2:38:05 PM | isActive = True
+tcannna@gmail.com:313626tc | Plan = [Disney Plus Yearly - US - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 1/7/2022 9:07:22 PM | isActive = True
+emma_carroll87@hotmail.com:James2014 | Plan = [Disney Plus Monthly - UK - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - UK - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 12/14/2021 11:52:08 AM | isActive = True
+danielle.r.2001@hotmail.com:DANIELLE1 | Plan = [Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS] | subType = PROMO_REDEMPTION | isActive = True
+euphoria1980@hotmail.com:Rocky1980 | Plan = [Disney Plus Yearly Pre-Sales - US - Web, DISNEY_PLUS] | subType = INITIAL | Renewal Date = 11/12/2022 6:00:00 AM | isActive = True
